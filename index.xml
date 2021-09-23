@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Mohit Semwal</title>
+    <link>https://mohitsubsemwal.github.io/Port_folio/</link>
+    <description>Recent content in Data Science Portfolio on Mohit Semwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2020 10:45:08 -0200</lastBuildDate><atom:link href="https://mohitsubsemwal.github.io/Port_folio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6: Rock vs Mine Prediction</title>
+      <link>https://mohitsubsemwal.github.io/Port_folio/post/project-6/</link>
+      <pubDate>Tue, 01 Sep 2020 10:45:08 -0200</pubDate>
+      
+      <guid>https://mohitsubsemwal.github.io/Port_folio/post/project-6/</guid>
+      <description>We are building a system in Python that can predict whether an object is either Rock or Mine with SONAR Data. For this use case, we are using Logistic Regression Model for our prediction.
+ Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Parkinson&#39;s Disease Detection</title>
+      <link>https://mohitsubsemwal.github.io/Port_folio/post/project-5/</link>
+      <pubDate>Thu, 02 Jul 2020 10:45:08 -0200</pubDate>
+      
+      <guid>https://mohitsubsemwal.github.io/Port_folio/post/project-5/</guid>
+      <description>Machine Learning System that can detect Parkinson&amp;rsquo;s Disease with Python. In this use case, Support Vector Machine model is used for prediction.
+ Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Emotion detection from text</title>
+      <link>https://mohitsubsemwal.github.io/Port_folio/post/project-4/</link>
+      <pubDate>Sun, 02 Feb 2020 10:45:08 -0200</pubDate>
+      
+      <guid>https://mohitsubsemwal.github.io/Port_folio/post/project-4/</guid>
+      <description>End to End NLP Project. This project is about emotion detection in text file.
+ Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Big Mart Sales prediction</title>
+      <link>https://mohitsubsemwal.github.io/Port_folio/post/project-3/</link>
+      <pubDate>Tue, 07 Jan 2020 10:45:08 -0200</pubDate>
+      
+      <guid>https://mohitsubsemwal.github.io/Port_folio/post/project-3/</guid>
+      <description>Big Mart Sales Prediction using Machine Learning with Python. In this project, XGBoost Regressor is used for Prediction.
+ Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Credit Card Fraud Detection</title>
+      <link>https://mohitsubsemwal.github.io/Port_folio/post/project-2/</link>
+      <pubDate>Fri, 14 Jun 2019 10:45:08 -0200</pubDate>
+      
+      <guid>https://mohitsubsemwal.github.io/Port_folio/post/project-2/</guid>
+      <description>Credit card Fraud Detection system using Machine Learning with Python. For this project, we have used the Logistic Regression model.
+ Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Fake news prediction</title>
+      <link>https://mohitsubsemwal.github.io/Port_folio/post/project-1/</link>
+      <pubDate>Sat, 06 Apr 2019 10:45:08 -0200</pubDate>
+      
+      <guid>https://mohitsubsemwal.github.io/Port_folio/post/project-1/</guid>
+      <description>We are building a Fake News Prediction System using Machine Learning with Python W are using Logistic Regression model for the prediction.   Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mohitsubsemwal.github.io/Port_folio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohitsubsemwal.github.io/Port_folio/contact/</guid>
+      <description>github https://github.com/mohitsubsemwal/
+blog Website https://mohitssemwal.wixsite.com/website
+Email mohitssemwal@gmail.com
+Please type your message and email to get in touch, I will get back to you soon.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
